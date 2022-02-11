@@ -1,0 +1,135 @@
+{
+    "section1": {
+        "files": [
+			{
+                "url": "assets/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "atlasURL": "assets/atlas.json",
+                "textureURL": "assets/atlas.png",
+                "type": "atlas",
+                "key": "atlas"
+            },
+			{
+                "atlasURL": "assets/player.json",
+                "textureURL": "assets/player.png",
+                "type": "atlas",
+                "key": "player"
+            },
+            {
+                "type": "xml",
+                "key": "minecraftXML",
+                "url": "assets/minecraft.fnt"
+            },
+            {
+                "type": "image",
+                "key": "tiles",
+                "url": "assets/tiles/tiles.png"
+            },
+            {
+                "url": "assets/environment/back.png",
+                "type": "image",
+                "key": "back"
+            },
+            {
+                "url": "assets/environment/collision.png",
+                "type": "image",
+                "key": "collision"
+            },
+            {
+                "url": "assets/sprites/credits-text.png",
+                "type": "image",
+                "key": "credits-text"
+            },
+            {
+                "url": "assets/sprites/instructions.png",
+                "type": "image",
+                "key": "instructions"
+            },
+            {
+                "url": "assets/maps/level1.json",
+                "type": "tilemapTiledJSON",
+                "key": "Level1Map"
+            },
+			{
+                "url": "assets/maps/level2.json",
+                "type": "tilemapTiledJSON",
+                "key": "Level2Map"
+            },
+            {
+                "url": "assets/environment/middle.png",
+                "type": "image",
+                "key": "middle"
+            },
+            {
+                "url": "assets/sprites/press-enter-text.png",
+                "type": "image",
+                "key": "press-enter-text"
+            },
+            {
+                "url": "assets/environment/tileset.png",
+                "type": "image",
+                "key": "tileset"
+            },
+            {
+                "url": "assets/sprites/title-screen.png",
+                "type": "image",
+                "key": "title-screen"
+            },
+			{
+                "url": "assets/environment/doge1.png",
+                "type": "image",
+                "key": "doge1"
+            },
+			{
+                "url": "assets/environment/doge2.png",
+                "type": "image",
+                "key": "doge2"
+            },
+			{
+                "url": "assets/environment/doge3.png",
+                "type": "image",
+                "key": "doge3"
+            },
+			{
+                "url": "assets/environment/doge4.png",
+                "type": "image",
+                "key": "doge4"
+            },
+            {
+                "url": "assets/audio/back.wav",
+                "type": "audio",
+                "key": "back"
+            },
+			{
+                "url": "assets/audio/shoot.wav",
+                "type": "audio",
+                "key": "shoot"
+            },
+            {
+                "url": "assets/environment/playgames.png",
+                "type": "image",
+                "key": "playgames"
+            },
+            {
+                "url": "assets/environment/withdrawal.png",
+                "type": "image",
+                "key": "withdrawal"
+            },
+            {
+                "url": "assets/environment/buy.png",
+                "type": "image",
+                "key": "buy"
+            }
+
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

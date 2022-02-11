@@ -1,0 +1,17 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/sprites/loading.png",
+                "type": "image",
+                "key": "loading"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Revenge of Daughter Doge",
+        "contentType": "Phaser2D Game",
+        "url": "",
+        "version": 2
+    }
+}
